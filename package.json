@@ -1,7 +1,7 @@
 {
-  "name": "express-hello-world",
+  "name": "express-anastasiia-lozovan",
   "version": "1.0.0",
-  "description": "Expressjs Hello World example to provide faster start deploying on Cyclic platform",
+  "description": "Expressjs Hello Anastasiia Lozovan example to provide faster start deploying on Cyclic platform",
   "main": "server.js",
   "scripts": {
     "serve": "nodemon --watch . server.js",
